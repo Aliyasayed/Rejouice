@@ -15,3 +15,4 @@ Built with attention to detail, fluid animations, and an immersive user experien
 
 ⚙️ High-performance animations using CSS & JS
 
+🎥 View : https://aliyasayed.github.io/Rejouice/
